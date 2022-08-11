@@ -1,3 +1,5 @@
+# distancia-com-OCR
+
 Script com o objetivo de coletar a distância calculada pelo Google Maps sem a necessidade de uma API.
 
 Utiliza visão computacional e reconhecimento de letras para a captura de textos, nesse caso, para a distância.
