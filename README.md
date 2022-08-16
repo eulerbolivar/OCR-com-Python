@@ -1,9 +1,5 @@
-# distancia-com-OCR
+# Projetos feitos com OCR-Tesseract
 
-Script com o objetivo de coletar a distância calculada pelo Google Maps sem a necessidade de uma API.
+Nesse repositório serão armazenados todos os projetos e algoritmos que utilizarem de visão computacional para acelerar algum processo.
 
-Utiliza visão computacional e reconhecimento de letras para a captura de textos, nesse caso, para a distância.
-
-Funciona com o auxílio de uma planilha de Excel, onde fica armazenada as informações a serem buscadas pelo algoritmo.
-
-Ao final do código, o valor retornado é a distância em quilômetros obtida após a escolha das rotas.
+Priorizando projetos orientados à coleta e tratamento de dados via OCR/Tesseract, e também processos automatizados com testes de OCR/Selenium
